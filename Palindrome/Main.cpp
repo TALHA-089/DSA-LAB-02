@@ -74,6 +74,7 @@ int main(){
                 }else{
                     cout << "\nString is not a Palindrome\n";
                 }
+                delete palindrome;
 
     }while(choice != 4);
 
